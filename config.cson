@@ -1,0 +1,38 @@
+"*":
+  core:
+    allowPendingPaneItems: false
+    audioBeep: false
+    closeDeletedFileTabs: true
+    disabledPackages: [
+      "about"
+      "language-perl"
+      "language-objective-c"
+      "language-mustache"
+      "language-java"
+      "language-go"
+      "language-csharp"
+      "language-clojure"
+      "language-c"
+      "language-php"
+      "language-toml"
+      "language-typescript"
+      "markdown-preview"
+      "metrics"
+      "package-generator"
+      "welcome"
+      "tabs"
+    ]
+    restorePreviousWindowsOnStart: "no"
+    telemetryConsent: "no"
+    themes: [
+      "one-dark-ui"
+      "dracula-syntax"
+    ]
+    titleBar: "hidden"
+  editor:
+    fontFamily: "SourceCodePro-Light"
+    fontSize: 13
+    lineHeight: 1.25
+    showLineNumbers: false
+  "exception-reporting":
+    userId: "93048a13-0e0b-4089-8292-47c3bfd3b3fb"
